@@ -8,7 +8,7 @@ For advanced features please refer to the relevant sections in this tutorial or 
 - Log into your SageMathCloud account and create a new project named **SMC_hands_on** and make sure you add a meaningful description.
 - Once you have created your project the next thing to do is create a **.course** file (you can name it SMC_hands_on.course as well).
 
-## Managing your course
+## Structuring your course
 A commonly used structure for SMC courses is as follows:
   - notes
     - week1
