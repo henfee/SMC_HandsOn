@@ -8,7 +8,7 @@ After an assignment has been made, you will notice a **Collect** button next to 
 
 ![collect](./assets/collect_assignment.png)
 
-If you click on this button you will generate a copy of the student's assignment in your own directory as well as the extra files (s)he might have generated.
+**Note:** If you click on this button you will generate a copy of the student's assignment in your own directory as well as the extra files (s)he might have generated.
 
 ## Grading
 You can now open and mark the student's assignment. You can annotate the assignments as you please and the students will get a copy of everything you have added once you return the assignments.
@@ -23,8 +23,13 @@ Once you are done you can return to the .project file and mark it by clicking in
 ## Returning an assignment
 After grading an assignment click on the **Return** button and a copy of your modified file will be added to the student's project.
 
-## Exercise
+
+---
+
+## Exercise 4: collect and grade assignments
 Remember the assignments you assigned to your peers? Hopefully they will now include some modifications. Collect them and grade them. Once completed, return them to whoever it was assigned.
 
 ## Extra-exercise
-Export the grades from your course work in either a .csv file or as a Python file. (Hint: this is not done in your .course file but directly on the project Settings.)
+Export the grades from your course work in either a .csv file or as a Python file.
+
+(Hint: this is not done in your .course file but directly on the project Settings.)

@@ -7,11 +7,14 @@ The collaborators will more than likely be your demonstrators and any other lect
 ## Students
 Students are added directly from the `.course` file in home directory. If you have a very small group you can add these manually, otherwise you can copy the contents of a .xls or .csv file directly on the **Add student by name or email address** box.
 
-## Exercise
+---
+
+## Exercise 2
 We'll add "students" to the session: locate the `hands_on.csv` file (*in-person tutorial session only*, sorry) provided by the tutor and add your peers as students.
 
 You can do this by copying and pasting directly from the file onto the box. Once they have been added, the students will receive an email inviting them to join the course. When doing this please encourage them to use their institutional email and real name for this account.
 
+--- 
 Alternatively, if the students already have a SMC account they can be found by
 typing their name in the box.
 

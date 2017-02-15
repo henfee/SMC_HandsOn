@@ -46,6 +46,11 @@ mkdir -p notes/week1
 ```
 Note that the repository you have just copied only contains some Jupyter Notebooks and a .csv file containing some data. If you have a GitHub repo containing any sort of SMC supported files (LaTex, Juypter notebooks, Sage worksheets, etc.) you can add them directly by using `git clone repo_url` from the terminal.
 
-## Exercise
-Create/Import a LaTex document, which will be the "lecture material" for your course. Save it in the notes directory of your course.
-Make a few changes to the document. Even if just changing some layouts bits and stuff.
+---
+
+## Exercise 1:
+* Create/Import a LaTex document, which will be the "lecture material" for your course. Save it in the notes directory of your course (we are going to use this later in the session).
+
+* Make a few changes to the document. Even if just changing some layouts bits and stuff.
+
+---
